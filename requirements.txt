@@ -1,0 +1,8 @@
+gym==0.23.0
+pygame
+torch
+numpy==1.26.4
+matplotlib
+tqdm
+ipython
+pillow

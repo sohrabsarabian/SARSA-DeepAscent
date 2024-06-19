@@ -1,4 +1,7 @@
  # SARSA-DeepAscent: Mastering the MountainCar Environment with Deep Reinforcement Learning
+Sit Back and Enjoy the Thrill: Deep Reinforcement Learning Agent Navigates the Treacherous Mountain Car Terrain!
+![Animation](agent_video.gif)
+ 
  This repository contains an implementation of the Deep SARSA algorithm, a powerful reinforcement learning technique that combines the SARSA (State-Action-Reward-State-Action) 
  algorithm with deep neural networks. The project focuses on applying Deep SARSA to the challenging MountainCar environment from the OpenAI Gym.
  
